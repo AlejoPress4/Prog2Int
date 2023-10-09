@@ -1,0 +1,19 @@
+
+7
+java:S1220""Move this file to a named package.8úû´‹¨1
+u	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.( ƒ¬8Îı´‹¨1
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ğ—ƒî8Îı´‹¨1
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‹ÈóÛûÿÿÿÿ8Îı´‹¨1
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(˜€Ü«ùÿÿÿÿ8Îı´‹¨1
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(“èùøÿÿÿÿ8Îı´‹¨1
+{	java:S115	"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¾…ööúÿÿÿÿ8Îı´‹¨1
+W
+java:S1118":Add a private constructor to hide the implicit public one.(¯ñÅÔ8Òı´‹¨1
+H
+java:S1905"&Remove this unnecessary cast to "int".(Œ®ÕÑıÿÿÿÿ8Ùı´‹¨1
+H
+java:S19057"&Remove this unnecessary cast to "int".(Œ®ÕÑıÿÿÿÿ8Ûı´‹¨1
+H
+java:S1481C"+Remove this unused "rowini" local variable.(£‰ëŞ8Üı´‹¨1
+M
+java:S1481D"+Remove this unused "rowend" local variable.(¶±¥ıÿÿÿÿ8İı´‹¨1

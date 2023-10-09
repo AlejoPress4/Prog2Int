@@ -1,0 +1,22 @@
+
+0
+java:S1220""Move this file to a named package.
+U
+java:S1118
+":Add a private constructor to hide the implicit public one.(ğÊ™îøÿÿÿÿ
+Q
+java:S1172"6Remove this unused method parameter "parentComponent".(´Ä²¯øÿÿÿÿ
+Z
+java:S1172:"DRemove these unused method parameters "parentComponent", "showText".(ùƒÇê
+L
+java:S1172f"6Remove this unused method parameter "parentComponent".(²ğÜÊ
+R
+java:S1172’"6Remove this unused method parameter "parentComponent".(×¾Õäûÿÿÿÿ
+R
+java:S1172¿"6Remove this unused method parameter "parentComponent".(›Üúÿÿÿÿ
+M
+java:S1172ş"6Remove this unused method parameter "parentComponent".(”¿ûá
+R
+java:S1172Â"6Remove this unused method parameter "parentComponent".(ÎÔù¡ıÿÿÿÿ
+R
+java:S1172€"6Remove this unused method parameter "parentComponent".(šÊğãüÿÿÿÿ

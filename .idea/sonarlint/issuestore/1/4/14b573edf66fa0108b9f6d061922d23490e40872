@@ -1,0 +1,85 @@
+
+…
+java:S4165ã"gRemove this useless assignment; "rowEndTwo" already holds the assigned value along all execution paths.(îïÑ§8Ê§è’±1
+…
+java:S4165˜"gRemove this useless assignment; "rowEndTwo" already holds the assigned value along all execution paths.(×¦ÅÙ8Ø§è’±1
+‡
+java:S4165À"dRemove this useless assignment; "rowEnd" already holds the assigned value along all execution paths.(î¬ğ„şÿÿÿÿ8è§è’±1
+u	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.( ƒ¬8Îı´‹¨1
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ğ—ƒî8Îı´‹¨1
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‹ÈóÛûÿÿÿÿ8Îı´‹¨1
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(˜€Ü«ùÿÿÿÿ8Îı´‹¨1
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(“èùøÿÿÿÿ8Îı´‹¨1
+{	java:S115	"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¾…ööúÿÿÿÿ8Îı´‹¨1
+W
+java:S1118":Add a private constructor to hide the implicit public one.(¯ñÅÔ8Òı´‹¨1
+H
+java:S1905"&Remove this unnecessary cast to "int".(Œ®ÕÑıÿÿÿÿ8Ùı´‹¨1
+H
+java:S19057"&Remove this unnecessary cast to "int".(Œ®ÕÑıÿÿÿÿ8Ûı´‹¨1
+H
+java:S1481C"+Remove this unused "rowini" local variable.(£‰ëŞ8Üı´‹¨1
+M
+java:S1481D"+Remove this unused "rowend" local variable.(¶±¥ıÿÿÿÿ8İı´‹¨1
+W
+java:S1854g":Remove this useless assignment to local variable "rowInt".(íè–ë8¿¨è’±1
+_
+java:S1854s"=Remove this useless assignment to local variable "rowIntTwo".(–ŒÎØûÿÿÿÿ8À¨è’±1
+H
+java:S1905^"&Remove this unnecessary cast to "int".(î¬ğ„şÿÿÿÿ8ö¨è’±1
+C
+java:S1905`"&Remove this unnecessary cast to "int".(îïÑ§8…©è’±1
+C
+java:S1905g"&Remove this unnecessary cast to "int".(íè–ë8‡©è’±1
+C
+java:S1905j"&Remove this unnecessary cast to "int".(îïÑ§8‰©è’±1
+H
+java:S1905r"&Remove this unnecessary cast to "int".(î¬ğ„şÿÿÿÿ8‹©è’±1
+H
+java:S1905s"&Remove this unnecessary cast to "int".(–ŒÎØûÿÿÿÿ8Œ©è’±1
+I
+java:S1905—"&Remove this unnecessary cast to "int".(î¬ğ„şÿÿÿÿ8•©è’±1
+p
+java:S3776¢"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(¨Å¹8Ó©è’±1
+I
+java:S1905²"&Remove this unnecessary cast to "int".(î¬ğ„şÿÿÿÿ8Ø©è’±1
+I
+java:S1905³"&Remove this unnecessary cast to "int".(Üº¡¡ÿÿÿÿÿ8Ù©è’±1
+D
+java:S1905¿"&Remove this unnecessary cast to "int".(ß‘Êå8Û©è’±1
+I
+java:S1905À"&Remove this unnecessary cast to "int".(î¬ğ„şÿÿÿÿ8Û©è’±1
+D
+java:S1905Â"&Remove this unnecessary cast to "int".(îïÑ§8Ü©è’±1
+D
+java:S1905Ö"&Remove this unnecessary cast to "int".(ß‘Êå8â©è’±1
+I
+java:S1905Ø"&Remove this unnecessary cast to "int".(Üº¡¡ÿÿÿÿÿ8ã©è’±1
+D
+java:S1905Ù"&Remove this unnecessary cast to "int".(îïÑ§8ã©è’±1
+I
+java:S1905á"&Remove this unnecessary cast to "int".(î¬ğ„şÿÿÿÿ8ä©è’±1
+I
+java:S1905â"&Remove this unnecessary cast to "int".(Üº¡¡ÿÿÿÿÿ8ä©è’±1
+D
+java:S1905ã"&Remove this unnecessary cast to "int".(îïÑ§8å©è’±1
+p
+java:S3776ø"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(•ôü‰8ç©è’±1
+D
+java:S1905¦"&Remove this unnecessary cast to "int".(Ÿ¶ª²8ò©è’±1
+p
+java:S3776¹"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(ö•éø8‚ªè’±1
+D
+java:S1905ç"&Remove this unnecessary cast to "int".(Ÿ¶ª²8’ªè’±1
+D
+java:S1905ú"&Remove this unnecessary cast to "int".(Ÿ¶ª²8”ªè’±1
+G
+java:S1905")Remove this unnecessary cast to "double".(Ø‘ã´8˜ªè’±1
+L
+java:S1905œ")Remove this unnecessary cast to "double".(Ô¶àÿşÿÿÿÿ8™ªè’±1
+G
+java:S1905²")Remove this unnecessary cast to "double".(öüÙè8¡ªè’±1
+u
+java:S3776Á"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(˜—±Ãşÿÿÿÿ8£ªè’±1
+u
+java:S3776²"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(ªüï‰úÿÿÿÿ8Àªè’±1
